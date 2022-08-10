@@ -1,0 +1,20 @@
+{
+  "name": "tellonym",
+  "version": "3.4.0",
+  "description": "tellonym api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsam3/tellonym.git"
+  },
+  "author": "promandeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsam3/tellonym/issues"
+  },
+  "homepage": "https://github.com/wsam3/tellonym#readme",
+  "keywords": []
+}
