@@ -1,0 +1,37 @@
+{
+  "name": "tellonym-api",
+  "version": "1.0.3",
+  "description": "Tellonym javascript api",
+  "main": "Tellonym.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "combined-stream": "^1.0.8",
+    "fetch-blob": "^3.1.5",
+    "data-uri-to-buffer": "^4.0.0",
+    "delayed-stream": "^1.0.0",
+    "asynckit": "^0.4.0",
+    "follow-redirects": "^1.15.1",
+    "form-data": "^4.0.0",
+    "mime-db": "^1.52.0",
+    "formdata-polyfill": "^4.0.10",
+    "node-domexception": "^1.0.0",
+    "mime-types": "^2.1.35",
+    "node-fetch": "^3.2.6",
+    "web-streams-polyfill": "^3.2.1",
+    "tellonym-api": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsam3/tellonym.git"
+  },
+  "author": "AhmadandWsam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsam3/tellonym/issues"
+  },
+  "homepage": "https://github.com/wsam3/tellonym#readme"
+}
